@@ -37,12 +37,12 @@ M-TIE will help you manage your finances efficiently by providing up-to-date dat
 
 ## Available Languages
 <ul>
-  <li><img src="https://static.vecteezy.com/system/resources/previews/016/328/983/original/united-kingdom-flat-rounded-flag-icon-with-transparent-background-free-png.png" width="16" height="12"> English</li>
-  <li><img src="https://vectorflags.s3.amazonaws.com/flags/by-circle-01.png" width="16" height="12"> Belarusian</li>
-  <li><img src="https://static.vecteezy.com/system/resources/previews/011/571/338/original/circle-flag-of-turkey-free-png.png" width="16" height="12"> Turkish</li>
-  <li><img src="https://vectorflags.s3.amazonaws.com/flags/kz-circle-01.png" width="16" height="12"> Kazakh</li>
-  <li><img src="https://static.vecteezy.com/system/resources/previews/011/571/337/non_2x/circle-flag-of-uzbekistan-free-png.png" width="16" height="12"> Uzbek</li>
-  <li><img src="https://static.vecteezy.com/system/resources/previews/016/328/914/original/russia-flat-rounded-flag-icon-with-transparent-background-free-png.png" width="16" height="12"> Russian</li>
+  <li><img src="https://static.vecteezy.com/system/resources/previews/016/328/983/original/united-kingdom-flat-rounded-flag-icon-with-transparent-background-free-png.png" width="16" height="16"> English</li>
+  <li><img src="https://vectorflags.s3.amazonaws.com/flags/by-circle-01.png" width="16" height="16"> Belarusian</li>
+  <li><img src="https://static.vecteezy.com/system/resources/previews/011/571/338/original/circle-flag-of-turkey-free-png.png" width="16" height="16"> Turkish</li>
+  <li><img src="https://vectorflags.s3.amazonaws.com/flags/kz-circle-01.png" width="16" height="16"> Kazakh</li>
+  <li><img src="https://static.vecteezy.com/system/resources/previews/011/571/337/non_2x/circle-flag-of-uzbekistan-free-png.png" width="16" height="16"> Uzbek</li>
+  <li><img src="https://static.vecteezy.com/system/resources/previews/016/328/914/original/russia-flat-rounded-flag-icon-with-transparent-background-free-png.png" width="16" height="16"> Russian</li>
 </ul>
 
 ## Available Currencies
